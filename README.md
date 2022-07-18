@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 <h1 align="center">Hi 👋, I'm Yousef Ismail</h1>
 <h3 align="center">A passionate developer from the United States</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif"/>
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/yousefismail01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousefismail01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yousefaismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousefaismail" height="30" width="40" /></a>
-<a href="https://instagram.com/yousefismail01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousefismail01" height="30" width="40" /></a>
+<a href="https://instagram.com/yousefismail22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousefismail01" height="30" width="40" /></a>
 <a href="https://discord.gg/Mecca#2993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mecca#2993" height="30" width="40" /></a>
 </p>
 
