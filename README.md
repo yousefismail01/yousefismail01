@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yousefismail01" target="blank"><img src="https://img.shields.io/twitter/follow/yousefismail01?logo=twitter&style=for-the-badge" alt="yousefismail01" /></a> </p>
 
-- 🔭 I’m currently working on [Snapbrillia](https://www.snapbrillia.com/)
+- 🔭 I’m currently working on my senior year at PSU!
 
 - 🌱 I’m currently learning **MERN Stack**
 
