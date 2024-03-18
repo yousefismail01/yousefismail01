@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefismail01&label=Profile%20views&color=190eb4&style=flat" alt="yousefismail01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yousefismail01" target="blank"><img src="https://img.shields.io/twitter/follow/yousefismail01?logo=twitter&style=for-the-badge" alt="yousefismail01" /></a> </p>
-
 - 🔭 I’m currently a graduate student at UPENN!
 
 - 🌱 I’m currently learning **MERN Stack**
